@@ -7,6 +7,12 @@ body.myBody{
 a{
   font-family: 'Source Sans Pro', sans-serif;
 }
+div.row{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 p.pDescription{
   font-family: 'Source Sans Pro', sans-serif;
   color: #ffffff;
